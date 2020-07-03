@@ -1,0 +1,109 @@
+/*Tablet*/
+@media (max-width: 1000px) {
+  .atas h1 {
+  	font-size: 100px;
+  }
+  .atas h2 {
+  	font-size: 40px;
+  }
+
+  .menus {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  .menu {
+    width: 25%;
+    margin-bottom: 50px;
+  }
+
+  .flex-list li a {
+    margin-left: 0;
+  }
+
+}
+
+@media (max-width: 670px) {
+  .daftar {
+    display: none;
+  }
+  
+  .menu-icon {
+    display: block;
+  }
+
+  .menu-icon img {
+    width: 40%;
+  }
+   
+  .text {
+    margin-top: 10px;
+  }
+
+  .atas {
+    text-align: left; 
+  }
+  .atas h1 {
+    font-size: 50px;
+    line-height: 36px;
+    text-align: center;
+  }
+
+  .menus {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  .menu {
+    width: 50%;
+    margin-bottom: 10px;
+  }
+
+  .atas h2 {
+  	font-size: 20px;
+  	text-align: center;
+  }
+  .atas p {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+  }
+
+  .content {
+    padding-top: 30px;
+  }
+
+  .content h2 {
+  	font-size: 15px;
+  }
+
+  .card1 h2 {
+  	font-size: 15px;
+  }
+
+  .heading h2, h3 {
+  	font-size: 15px;
+  }
+
+  footer {
+    width: 100%;
+  	text-align: center;
+  }
+
+  .footer-content h3, h4 {
+  	font-size: 15px;
+  }
+
+
+  .facebook {
+    margin-bottom: 10px;
+  }
+
+  .flex-list li a {
+    margin-left: 0;
+  }
+
+  .container ul {
+    padding-left: 0;
+  }
+}
